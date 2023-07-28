@@ -15,10 +15,11 @@
 <h5 align="center"> 💬 You can contact me by 2955722401@qq.com </h5>
 
 ### 📈 Github Statistics
+
 <div align="center">
-<span>&emsp;&emsp;</span>
-<img height="175px" src="https://github-readme-stats.vercel.app/api?username=xjtu-fgh&count_private=true&show_icons=true&theme=radical" />
-<span>&emsp;&emsp;</span>
-<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjtu-fgh&layout=compact&langs_count=8" />
-<span>&emsp;&emsp;</span>
+    <span>&emsp;&emsp;</span>
+    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=xjtu-fgh&count_private=true&show_icons=true" />
+    <span>&emsp;&emsp;</span>
+    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjtu-fgh&layout=compact&langs_count=8" />
+    <span>&emsp;&emsp;</span>
 </div>
