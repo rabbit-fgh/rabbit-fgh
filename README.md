@@ -5,5 +5,6 @@
 - 📫 How to reach me: wisdom_zhe@qq.com
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_44231797?spm=1000.2115.3001.5343)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xjtu-fgh)](https://github.com/xjtu-fgh/github-readme-stats)
+[![Mango's github stats](https://github-readme-stats.vercel.app/api?username=xjtu-fgh&show_icons=true&theme=radical)](https://github.com/xjtu-fgh/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xjtu-fgh&layout=compact&theme=tokyonight)
