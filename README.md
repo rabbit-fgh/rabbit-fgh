@@ -14,5 +14,11 @@
 <h5 align="center"> 📫 I'm currently working on 3D Pose Estimation </h5>
 <h5 align="center"> 💬 You can contact me by 2955722401@qq.com </h5>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) 
+### 📈 Github Statistics
+<div align="center">
+<span>&emsp;&emsp;</span>
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=xjtu-fgh&count_private=true&show_icons=true&theme=radical" />
+<span>&emsp;&emsp;</span>
+<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjtu-fgh&layout=compact&langs_count=8" />
+<span>&emsp;&emsp;</span>
+</div>
