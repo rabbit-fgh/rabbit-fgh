@@ -18,6 +18,6 @@
 
 <div align="center">
     <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=xjtu-fgh&count_private=true&show_icons=true&theme=gotham" />
+    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=xjtu-fgh&count_private=true&show_icons=true&theme=radical" />
     <span>&emsp;&emsp;</span>
 </div>
