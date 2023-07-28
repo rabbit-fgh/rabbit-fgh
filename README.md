@@ -1,2 +1,2 @@
 # xitu-fgh
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xjtu-fgh)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xjtu-fgh)](https://github.com/xjtu-fgh/github-readme-stats)
