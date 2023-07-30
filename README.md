@@ -11,7 +11,7 @@
     </a>
 </p>
 <h5 align="center"> 🌱 I’m studying in Xi'an JiaoTong University </h5>
-<h5 align="center"> 📫 I'm currently working on 3D Pose Estimation </h5>
+<h5 align="center"> 📫 I'm currently working on ... </h5>
 <h5 align="center"> 💬 You can contact me by 2955722401@qq.com </h5>
 
 ### 📈 Github Statistics
