@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dblinkfox&color=blue&logo=github&longCache=true" />
     </a>
     <a title="My Blog Site" target="_blank" href="https://rabbit-fgh.github.io/">
-        <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-xjtu fgh.github.io-orange" />
+        <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-rabbit fgh.github.io-orange" />
     </a>
 </p>
 <h5 align="center"> 🌱 I’m studying in Xi'an JiaoTong University </h5>
